@@ -1,0 +1,5 @@
+SC.AccordionViewDelegate = {
+  
+  isAccordionViewDelegate: YES
+  
+};
