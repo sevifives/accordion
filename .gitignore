@@ -1,5 +1,5 @@
 .DS_Store
 tmp
 frameworks
-loading.rhtml
-main_page.js
+resources/loading.rhtml
+resources/main_page.js
